@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: '私の最初のブログ記事'
+title: "私の最初のブログ記事"
 pubDate: 2026-03-10
-description: 'これは私の新しいAstroブログの最初の記事です。'
-author: '瀬崎'
+description: "これは私の新しいAstroブログの最初の記事です。"
+author: "瀬崎"
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'ピンク色に輝く暗い背景に浮かぶAstroのロゴ。'
+    url: "https://docs.astro.build/assets/rose.webp"
+    alt: "ピンク色に輝く暗い背景に浮かぶAstroのロゴ。"
 tags: ["astro", "ブログ", "公開学習"]
 ---
 

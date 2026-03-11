@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: '私の2番目のブログ記事'
+title: "私の2番目のブログ記事"
 pubDate: 2026-03-10
-description: 'Astroを少し学んだら、止まらなくなりました！'
-author: '瀬崎'
+description: "Astroを少し学んだら、止まらなくなりました！"
+author: "瀬崎"
 image:
-    url: 'https://docs.astro.build/assets/arc.webp'
-    alt: '紫色のグラデーションの弧が描かれた暗い背景に浮かぶAstroのロゴ。'
+    url: "https://docs.astro.build/assets/arc.webp"
+    alt: "紫色のグラデーションの弧が描かれた暗い背景に浮かぶAstroのロゴ。"
 tags: ["astro", "ブログ", "公開学習", "成功"]
 ---
 
